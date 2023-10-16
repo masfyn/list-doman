@@ -1,2 +1,10 @@
+[Adblock Plus]
+
+||0.101tubeporn.com^
+||0.code.cotsta.ru^
+||000.gaysexe.free.fr^
+||000free.us^
+||000tristanprod.free.fr^
+||002777.xyz^
 0.0.0.0 speedtest.net/id
 0.0.0.0 1q2w3.fun
